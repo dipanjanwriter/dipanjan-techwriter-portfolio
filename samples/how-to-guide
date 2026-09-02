@@ -1,0 +1,33 @@
+# How to Configure Two-Factor Authentication
+
+## Overview
+
+Two-factor authentication (2FA) adds an additional layer of security to your account.
+
+## Prerequisites
+
+Before configuring 2FA, make sure that:
+
+- You have access to your account.
+- You have a mobile authentication application.
+- You can access your registered email address.
+
+## Procedure
+
+### Step 1: Open Account Settings
+
+1. Sign in to your account and click **Account Settings**.
+
+### Step 2: Open Security Settings
+
+2. Select **Security** from the navigation menu.
+
+### Step 3: Enable Two-Factor Authentication
+
+3. Select **Enable Two-Factor Authentication**.
+
+4. Follow the instructions displayed on screen.
+
+## Troubleshooting
+
+If you cannot complete the configuration, verify that your device has the correct date and time settings.
